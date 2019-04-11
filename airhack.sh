@@ -79,8 +79,7 @@ elif [ "$param2" = -i ]
 then
 	{
 		echo -e "AirHack v1.0"
-		echo -e "This program attempts to gain access to open networks that have a paywall or username and password by spoofing MAC addresses\n"
-
+		
 		a=$(netstat -rn | grep UG | cut -c 8-30 | cut --complement -d " " -f 1)
 		IP_get=${a//[[:blank:]]/}
 
