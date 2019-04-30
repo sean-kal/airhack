@@ -16,6 +16,7 @@
 ########################################################################
 # Developer: 		Sean Kalkiewicz
 # Github:		https://github.com/sean-kal
+# Email:		skalkiewicz@gmail.com
 # Program Name:		AirHack
 # Purpose:		Obtain free access to open networks that have a login page such as those found at coffee shops or airlines
 # Version:		1.0
